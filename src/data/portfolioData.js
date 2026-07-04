@@ -1,8 +1,3 @@
-// ============================================================
-// portfolioData.js — Centralized configuration for Obulshetty Nikhil Kumar's Portfolio
-// All external links, personal info, and content in one place.
-// ============================================================
-
 export const personalInfo = {
   name: "Obulshetty Nikhil Kumar",
   firstName: "Nikhil Kumar",
