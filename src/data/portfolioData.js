@@ -200,7 +200,7 @@ export const educationList = [
     degree: "B.Tech in Computer Science (AI & ML)",
     duration: "2023 – 2026",
     location: "Hyderabad, Telangana",
-    gpa: "CGPA: 7.1"
+    gpa: "CGPA: 7.31"
   },
   {
     institution: "TRR College of Technology",
@@ -256,7 +256,7 @@ export const footerContent = {
     "CSE (AI & ML) Student",
     "Machine Learning & Web Applications",
   ],
-  credential: "B.Tech CSE (AI & ML) · CGPA 7.1",
+  credential: "B.Tech CSE (AI & ML) · CGPA 7.31",
   copyright: `© ${new Date().getFullYear()} Obulshetty Nikhil Kumar | Built with React`,
 };
 
